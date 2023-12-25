@@ -2,7 +2,7 @@ local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ki
 local Notify = AkaliNotif.Notify
 Notify({
     Description = "❤️",
-    Title = "Vika",
+    Title = "",
     Duration = 5,
 })
 
@@ -19,7 +19,7 @@ local Settings = {
     },
     FOV = {
         Visible = false,
-        Radius = 70
+        Radius = 75
     }
 }
 
