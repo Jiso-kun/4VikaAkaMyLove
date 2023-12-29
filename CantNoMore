@@ -4,4 +4,3 @@ Notify({
     Description = "❤️",
     Title = "",
     Duration = 5,
-oadstring(game:HttpGet("https://raw.githubusercontent.com/Jiso-kun/4VikaAkaMyLove/main/.gitignore", true))()
